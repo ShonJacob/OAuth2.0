@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../Albums-Resource-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NewSpringAuthorizationServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PhotoAppWebClient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Photos-Resource-Server" vcs="Git" />
+  </component>
+</project>

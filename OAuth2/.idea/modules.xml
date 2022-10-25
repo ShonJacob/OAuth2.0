@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/../ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DiscoveryService/DiscoveryService.iml" filepath="$PROJECT_DIR$/../DiscoveryService/DiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NewSpringAuthorizationServer/NewSpringAuthorizationServer.iml" filepath="$PROJECT_DIR$/../NewSpringAuthorizationServer/NewSpringAuthorizationServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OAuth2ModuleBundler.iml" filepath="$PROJECT_DIR$/OAuth2ModuleBundler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PhotoAppWebClient/PhotoAppWebClient.iml" filepath="$PROJECT_DIR$/../PhotoAppWebClient/PhotoAppWebClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ResourceServer/ResourceServer.iml" filepath="$PROJECT_DIR$/../ResourceServer/ResourceServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SocialLogin/SocialLogin.iml" filepath="$PROJECT_DIR$/../SocialLogin/SocialLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Albums-Resource-Server/albums.iml" filepath="$PROJECT_DIR$/../Albums-Resource-Server/albums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Photos-Resource-Server/photos.iml" filepath="$PROJECT_DIR$/../Photos-Resource-Server/photos.iml" />
+    </modules>
+  </component>
+</project>

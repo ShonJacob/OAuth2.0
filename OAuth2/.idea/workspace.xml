@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="898fe228-b582-4a26-93c0-a8e3ba218881" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Photos-Resource-Server/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Albums-Resource-Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Albums-Resource-Server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/AlbumsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/AlbumsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/controllers/AlbumsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/controllers/AlbumsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/response/AlbumRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/response/AlbumRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/security/WebSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Albums-Resource-Server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhotoAppWebClient/src/main/java/com/appsdeveloperblog/ws/clients/photoappwebclient/PhotoAppWebClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhotoAppWebClient/src/main/java/com/appsdeveloperblog/ws/clients/photoappwebclient/PhotoAppWebClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhotoAppWebClient/src/main/java/com/appsdeveloperblog/ws/clients/photoappwebclient/controllers/AlbumsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhotoAppWebClient/src/main/java/com/appsdeveloperblog/ws/clients/photoappwebclient/controllers/AlbumsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhotoAppWebClient/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../PhotoAppWebClient/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos-Resource-Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Photos-Resource-Server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/photos/PhotosApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Photos-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/photos/PhotosApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/photos/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Photos-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/photos/security/WebSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos-Resource-Server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Photos-Resource-Server/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../NewSpringAuthorizationServer" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GOeRtHS1h5Ce58HxItSrUCwyWr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;LombokPluginIS_LOMBOK_JPS_FIX_ENABLED&quot;: &quot;true&quot;,
+    &quot;LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shonjacob/Desktop/Udemy/Java/OAuth2.0/SocialLogin/src/main/resources/templates&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../SocialLogin/src/main/resources/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SocialLoginApplication">
+    <configuration name="AlbumsApplication" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.ws.api.albums.AlbumsApplication" />
+      <module name="albums" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.ws.api.albums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shonjacob.oauth.ApiGateway.ApiGatewayApplication" />
+      <module name="ApiGateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shonjacob.oauth.ApiGateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shonjacob.oauth.DiscoveryService.DiscoveryServiceApplication" />
+      <module name="DiscoveryService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shonjacob.oauth.DiscoveryService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhotoAppWebClientApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.ws.clients.photoappwebclient.PhotoAppWebClientApplication" />
+      <module name="PhotoAppWebClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.ws.clients.photoappwebclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhotosApplication" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.ws.api.photos.PhotosApplication" />
+      <module name="photos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.ws.api.photos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceServerApplication" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shonjacob.oauth.ResourceServer.ResourceServerApplication" />
+      <module name="SocialLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shonjacob.oauth.ResourceServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocialLoginApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shonjacob.oauth.SocialLoginServer.SocialLoginApplication" />
+      <module name="SocialLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shonjacob.oauth.SocialLoginServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocialLoginWebClientApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-11.0.15.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.clients.sociallogin.SocialLoginWebClient.SocialLoginWebClientApplication" />
+      <module name="SocialLoginWebClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsdeveloperblog.clients.sociallogin.SocialLoginWebClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SocialLoginApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="898fe228-b582-4a26-93c0-a8e3ba218881" name="Changes" comment="" />
+      <created>1666264052265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666264052265</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
